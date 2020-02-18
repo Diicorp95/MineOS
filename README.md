@@ -1,5 +1,5 @@
-
 ## MineOS Standalone has released!
+Forked
 
 Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. MineOS has finally reached the release stage: now it is a completely independent operating system with its own lightweight development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. Here's a short features list:
 
